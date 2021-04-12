@@ -70,7 +70,7 @@ td {
 .axis{
     background-color:springgreen;
 }
-nav.page-navigation {
+.navi {
     width: 200px;
     background-color:ActiveBorder;
     position: fixed;
@@ -78,11 +78,3 @@ nav.page-navigation {
     right: 10px;
 }
 
-    nav.page-navigation li {
-        width: 100%;
-    }
-
-    nav.page-navigation a {
-        padding: 0.6em 10%;
-        width: 80%;
-    }
